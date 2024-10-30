@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It's a compilation of all proyects done in class, muxxed so we can test all, they include various number to 7 segment display converters, and counters.
+It's a compilation of all proyects done in class, muxed so we can test all, they include various number to 7 segment display converters, and counters.
 
 ## How to test
 
